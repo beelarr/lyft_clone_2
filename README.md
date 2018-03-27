@@ -1,4 +1,4 @@
-## IVASAP -  Mobile App
+## Lyft Clone -  Mobile App
 
 
 ```
